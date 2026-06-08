@@ -22,7 +22,7 @@
 
 > Systems that reason, act, and learn — from bare metal CUDA kernels to full-stack agentic platforms deployed in production.
 
-I'm an AI Engineer with a degree from **ENSIAS, Rabat**, specializing in the full vertical of modern AI:
+I'm an AI Engineer and Researcher, specializing in the full vertical of modern AI:
 - **Agentic Frameworks** — multi-step reasoning pipelines that diagnose, act, and recover autonomously
 - **Deep Learning** — CV, NLP, Reinforcement Learning, and custom model architectures
 - **LLMs in Production** — RAG systems, observability, evaluation, and fine-tuning
@@ -116,8 +116,6 @@ Research     Multi-Agent RL · RLHF · CUDA Acceleration · Autonomous Navigatio
 ---
 
 ## 🌐 Background
-
-🇲🇦 Based in Morocco · Open to **remote opportunities worldwide**
 
 `Arabic` Native · `French` Native · `English` Professional
 
