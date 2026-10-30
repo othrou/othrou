@@ -27,8 +27,6 @@ I'm an AI Engineer and Researcher, specializing in the full vertical of modern A
 - **Deep Learning** — CV, NLP, Reinforcement Learning, and custom model architectures
 - **LLMs in Production** — RAG systems, observability, evaluation, and fine-tuning
 
-Currently building AI at **Nemo Technologies** and taking on freelance AI projects globally.
-
 ---
 
 ## 🏗️ Selected Projects
